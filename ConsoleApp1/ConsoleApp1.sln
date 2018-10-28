@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{A05DC24F-E4BF-44F0-BC3A-5A25591F19EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Bushuev|Any CPU = Bushuev|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Roman|Any CPU = Roman|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A05DC24F-E4BF-44F0-BC3A-5A25591F19EA}.Bushuev|Any CPU.ActiveCfg = Bushuev|Any CPU
+		{A05DC24F-E4BF-44F0-BC3A-5A25591F19EA}.Bushuev|Any CPU.Build.0 = Bushuev|Any CPU
+		{A05DC24F-E4BF-44F0-BC3A-5A25591F19EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05DC24F-E4BF-44F0-BC3A-5A25591F19EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05DC24F-E4BF-44F0-BC3A-5A25591F19EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05DC24F-E4BF-44F0-BC3A-5A25591F19EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A05DC24F-E4BF-44F0-BC3A-5A25591F19EA}.Roman|Any CPU.ActiveCfg = Roman|Any CPU
+		{A05DC24F-E4BF-44F0-BC3A-5A25591F19EA}.Roman|Any CPU.Build.0 = Roman|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DBDF7C8-D190-4571-91DE-0A60F02319A1}
+	EndGlobalSection
+EndGlobal
